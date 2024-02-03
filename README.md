@@ -2,7 +2,7 @@ Thao Nguyen's Data Science Journey ✨
 
 Greetings! 
 
-I'm Thao Nguyen, a passionate data science enthusiast on a journey to transform raw information into meaningful insights. As a candidate pursuing a Master's in Data Science at Pace University (Class of 2024), my mission is to fuse the power of numbers with a deep interest in advertising technology.
+I'm Thao Nguyen, a passionate data science enthusiast on a journey to transform raw information into meaningful insights. As a candidate pursuing a Master's in Data Science at Pace University (Class of 2024), my mission is to fuse the power of numbers with a deep interest in technology, especially in advertising and music/entertainment industry.
 
 The Story So Far...
 
@@ -27,9 +27,15 @@ I've worked on exciting projects for both academic assignments and personal lear
 :sparkling_heart: Let's get personal
 
 I love hiking, painting, dancing, singing, playing sports, watching sports and ... doing nothing.
-I can be the life of the party and I can also be a homebody for weeks.
+I can be the life of the party and I can also be a homebody.
 People say I'm funny! - I think so too.
- 
+
+I can't live without music. I have the utmost admiration for musicians/artists/singers. They're doing god's work.
+I do believe I learn about someone's personality based on their Spotify profile more than any of their socials. With that being said, here's my 2023 Spotify Wrapped:
+
+![IMG_0029](https://github.com/thaonguyen2417/thaonguyen2417/assets/148276131/c7edb5c5-abda-4bc3-9521-931813ade214)
+
+
 :blue_heart::blue_heart::blue_heart: In a Nutshell :blue_heart::blue_heart::blue_heart:
 
 I'm Thao—a data explorer, a number nerd, and a fan of turning info into cool stories. Join me as I continue to write my data-driven narrative and make sense of the world, one byte at a time.
@@ -39,5 +45,7 @@ Connect with me:
 📧 Email: thaonn241@gmail.com
 
 💼 LinkedIn: linkedin.com/in/thaonguyen2417
+
+:musical_note: Spotify: https://open.spotify.com/user/22wnjvorpo7mlx6vkrfjj3xky?si=2f515c74d1d946ec
 
 Let's embark on this data adventure together! 🌐✨
