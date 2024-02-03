@@ -31,9 +31,7 @@ I can be the life of the party and I can also be a homebody.
 People say I'm funny! - I think so too.
 
 I can't live without music. I have the utmost admiration for musicians/artists/singers. They're doing god's work.
-I do believe I learn about someone's personality based on their Spotify profile more than any of their socials. With that being said, here's my 2023 Spotify Wrapped:
-
-![IMG_0029](https://github.com/thaonguyen2417/thaonguyen2417/assets/148276131/c7edb5c5-abda-4bc3-9521-931813ade214)
+I do believe I learn about someone's personality based on their Spotify profile more than any of their socials.
 
 
 :blue_heart::blue_heart::blue_heart: In a Nutshell :blue_heart::blue_heart::blue_heart:
