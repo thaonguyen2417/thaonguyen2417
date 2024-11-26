@@ -10,8 +10,6 @@ The Story So Far...
 
 At The Trade Desk, I played with data using SQL and made it do cool stuff for digital ads. GitLab and Databricks were my buddies for automating data refreshes. Before that, at PriceSpider, I made sure data was accurate and ready to roll.
 
-Back at MTKT Capital Inc., I dug into client data, figuring out who's ready for loans and making sure all the paperwork was top-notch.
-
 🎓 Academic Odyssey
 
 Armed with a Bachelor's in Business Analytics from California State University, Fullerton, I laid the foundation for my analytical prowess. Now, as a Data Science Maestro-in-Training at Pace University, I'm honing my skills in Machine Learning and other tools that transform data into gold.
